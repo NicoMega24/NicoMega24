@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Nico 👋
 
-<!--
-**NicoMega24/NicoMega24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Backend  
+☕ Java | Spring Boot | APIs REST  
+📍 Argentina
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy un desarrollador backend enfocado en Java y Spring Boot.
+Me interesa crear aplicaciones bien estructuradas, con buenas prácticas
+y lógica clara.  
+Actualmente sigo aprendiendo y mejorando mis habilidades de forma constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Java
+- Python
+- Spring Boot
+- JPA / Hibernate
+- MySQL
+- Git & GitHub
+
+## Qué estoy buscando
+Mi objetivo es insertarme profesionalmente en el rubro IT como desarrollador backend
+y continuar creciendo a nivel técnico y profesional.
