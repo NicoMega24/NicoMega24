@@ -12,7 +12,6 @@ Actualmente sigo aprendiendo y mejorando mis habilidades de forma constante.
 
 ## Tecnologías
 - Java
-- Python
 - Spring Boot
 - JPA / Hibernate
 - MySQL
